@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.megafishing88.org	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.megafishing88.org	TRUE	/b.resolvedLink	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.megafishing88.org	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.megafishing88.org	TRUE	/schema.org	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.megafishing88.org	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.megafishing88.org	TRUE	/signals	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.megafishing88.org	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.megafishing88.org	TRUE	/POST	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.megafishing88.org	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW	1
+www.megafishing88.org	TRUE	/a	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+www.megafishing88.org	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.megafishing88.org	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	23b684e8-b011-4ee7-5e8d-4a487ba829a6
+www.megafishing88.org	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2024-07-27 13:33:46.256450555 +0000 UTC m=+1309422.646384847"
+
